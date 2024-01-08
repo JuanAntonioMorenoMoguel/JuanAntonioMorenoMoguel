@@ -19,40 +19,34 @@
   </samp>
 </p>
 
-<p align="center">
- <a href="https://Juanant.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="JuanAntonioMorenoMoguel" />
- </a>
- <a href="https://www.linkedin.com/in/juamormog/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="JuanAntonioMorenoMoguel"/>
- </a>
- <a href="https://twitter.com/juan_moren64252" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://www.instagram.com/juan.ant03/?next=%2F" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
-</p>
-<br />
+<!-- Contact Section -->
+<h2 align="center">😎 you can reach me by:</h2>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/juamormog/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://Juanant.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://mailto:juamormog@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+    </p>
+  <p align="center">
+      <a href="https://www.instagram.com/juan.ant03/?next=%2F" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://wa.me/+34608190173" target="blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://twitter.com/juan_moren64252" target="blank"><img align="center"
+         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <br>
+    </p>
 
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: juamormog@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/JuanAntonioMorenoMoguel/JuanAntonioMorenoMoguel/issues)
-
-</p>
-
-<br/>
-<br/>
-<br/>
-
-## Use To Code
+## Coding Knowledge
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
@@ -65,33 +59,24 @@
 
 <br/>
 
-## Top Open Source -
+<!-- Stats Section -->
 
-<p align="left">
-  <a href="https://github.com/JuanAntonioMorenoMoguel?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+  <div>
+    <h2 align="center"> 📊 Github stats </h2>
+      <br/>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
+        </p>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+  </div>    
 
-<br/>
-<hr/>
-<br/>
-
-<p align="center">
-  <a href="https://github.com/JuanAntonioMorenoMoguel">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanAntonioMorenoMoguel&theme=radical&border=7F3FBF&background=0D1117" alt="Juanant's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/JuanAntonioMorenoMoguel">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanAntonioMorenoMoguel&theme=radical" alt="Juanant's GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/JuanAntonioMorenoMoguel"><img alt="Juanant Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JuanAntonioMorenoMoguel&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/JuanAntonioMorenoMoguel"><img alt="Juanant Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=JuanAntonioMorenoMoguel&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
+<h2 align="center"> 📈 Activity Graph </h2>
 
 ![Juanant Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanAntonioMorenoMoguel&custom_title=Juanant%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
